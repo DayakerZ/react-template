@@ -1,0 +1,46 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "react template build using webpack",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayakerZ/react-template.git"
+  },
+  "author": "Dayaker <dayakerreddy.kandala@zemosolabs.com> (http://localhost:8000/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DayakerZ/react-template/issues"
+  },
+  "homepage": "https://github.com/DayakerZ/react-template#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/plugin-transform-runtime": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@babel/runtime": "^7.18.9",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@types/webpack-dev-server": "^4.7.2",
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.22.0",
+    "eslint-plugin-react": "^7.31.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "html-webpack-plugin": "^5.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.10.0"
+  }
+}
